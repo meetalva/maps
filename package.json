@@ -1,10 +1,11 @@
 {
   "name": "@meetalva/maps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Embed Google Maps to show locations around the world",
   "alva": {
     "name": "Maps",
-    "color": "#2C67C9"
+    "color": "#646F7E",
+    "image": "https://media.meetalva.io/library/maps/image.svg"
   },
   "main": "lib/index.js",
   "files": [
