@@ -19,8 +19,7 @@ export interface GoogleMapsProps {
 
 enum GoogleMapsMapType {
   Roadmap = '',
-  Satellite = 'k',
-  Terrain = 'p'
+  Satellite = 'k'
 }
 
 /** 
